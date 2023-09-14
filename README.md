@@ -1,3 +1,10 @@
+
+<img width="411" alt="NP_demo1" src="https://github.com/daygodavy/NorthPole-iOS-/assets/35315835/0ed4f571-245f-48f3-a695-23ffe2644754"> <img width="412" alt="NP_demo2" src="https://github.com/daygodavy/NorthPole-iOS-/assets/35315835/4f2f2eb2-4ee0-46e7-b3e5-01f417b49849"> <img width="414" alt="NP_demo3" src="https://github.com/daygodavy/NorthPole-iOS-/assets/35315835/320d66fb-fc66-42f1-954e-cb512c2e7dae"> <img width="411" alt="NP_demo4" src="https://github.com/daygodavy/NorthPole-iOS-/assets/35315835/bc50af65-ba48-4de4-9a6c-cd8cd7eb88f3"> <img width="411" alt="NP_demo5" src="https://github.com/daygodavy/NorthPole-iOS-/assets/35315835/4270812c-d561-46cd-9cc6-a51cff631ee6"> <img width="411" alt="NP_demo6" src="https://github.com/daygodavy/NorthPole-iOS-/assets/35315835/01aaaa69-95c1-4704-a894-26489c9c28bc"> <img width="411" alt="NP_demo9" src="https://github.com/daygodavy/NorthPole-iOS-/assets/35315835/81d66342-950c-45c5-9e9a-1104709bba9a"> <img width="410" alt="NP_demo10" src="https://github.com/daygodavy/NorthPole-iOS-/assets/35315835/d64e77bf-072f-417e-b4cc-73a551fe6b3f"> <img width="408" alt="NP_demo11" src="https://github.com/daygodavy/NorthPole-iOS-/assets/35315835/4ca12786-d323-4771-9b55-c0d8bd3f465a"> <img width="412" alt="NP_demo13" src="https://github.com/daygodavy/NorthPole-iOS-/assets/35315835/d85e0be1-52a3-4422-b7ee-122efbc2924f"> <img width="411" alt="NP_demo814" src="https://github.com/daygodavy/NorthPole-iOS-/assets/35315835/3c4fc75f-cb60-43d1-8464-81575cf906e3"> <img width="412" alt="NP_demo15" src="https://github.com/daygodavy/NorthPole-iOS-/assets/35315835/7d08d1a7-2401-43c6-83c9-fe539da7f322">
+
+
+
+
+
 # Homework4-F19
 
 Daniel Weatrowski,
